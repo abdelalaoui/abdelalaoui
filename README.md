@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdallah-alaoui-16a551249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alaoui Abdellah" height="30" width="40" /></a>
-<a href="https://portfolio-alaoui-abdellahs-projects.vercel.app/#projects" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190228/ourmid/pngtree-vector-portfolio-icon-png-image_711172.jpg" alt="Alaoui Abdellah" height="30" width="40" /></a>
+<a href="https://portfolio-alaoui-abdellahs-projects.vercel.app/#projects" target="blank"><img align="center" src="[https://png.pngtree.com/png-vector/20190228/ourmid/pngtree-vector-portfolio-icon-png-image_711172.jpg](https://cdn-icons-png.flaticon.com/512/6462/6462740.png)" alt="Alaoui Abdellah" height="30" width="40" /></a>
 
   
 </p>
